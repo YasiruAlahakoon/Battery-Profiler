@@ -1,0 +1,30 @@
+Add Component: Footprint Not Found 1770393
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Added Member To Class: ClassName=Power Member=Component C? 1uF
+Added Member To Class: ClassName=Power Member=Component C? UWT1H101MNL1GS
+Added Member To Class: ClassName=Power Member=Component C? UWT1H101MNL1GS
+Added Member To Class: ClassName=Power Member=Component C? 1uF
+Added Member To Class: ClassName=Power Member=Component C? 1uF
+Added Member To Class: ClassName=Power Member=Component D? 1SS355VMTE-17
+Added Member To Class: ClassName=Power Member=Component D? 1SS355VMTE-17
+Added Member To Class: ClassName=Power Member=Component D? 1SS355VMTE-17
+Added Member To Class: ClassName=Power Member=Component D? 1SS355VMTE-17
+Added Member To Class: ClassName=Power Member=Component D? 1SS355VMTE-17
+Added Member To Class: ClassName=Power Member=Component IC? L7812ABD2T-TR
+Add Class Member: Failed to add class member : Component J1 1770393
+Added Member To Class: ClassName=Power Member=Component Q? SQJ147ELP-T1_GE3
+Added Member To Class: ClassName=Power Member=Component R? AC1206FR-104K7L
+Added Member To Class: ClassName=Power Member=Component R? AC1206FR-104K7L
+Added Member To Class: ClassName=Power Member=Component R? AC1206FR-104K7L

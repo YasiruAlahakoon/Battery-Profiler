@@ -1,0 +1,39 @@
+Added Component: Designator=J?(1770393)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1770393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1770393/phoenix-contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.phoenixcontact.com/online/portal/us/pxc/product_detail_page/!ut/p/z1/3Vdbb9owFP4r9IFHYzsXJ5m0B6BoQCkLJawkL1HsGOQ1tyYBOn79HC7dQBs8VGhaoiPFds75zsX-rBzowTn0kmAtlkEp0iSI5Nz1iO90nF7PVgj-OtE7aHCvd3sj7Qn3xwr8Bj3olQGFLq5GkaB5kP-A7qrgSbWQiVB-MgykWmo1Tx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "29.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1770393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1770393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1770393?qs=MfVUZiz0PxY16TK7qzndTA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=NetJ1_2 Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=NetJ1_2 Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-7
+Added Pin To Net: NetName=NetJ1_2 Pin=J?-8
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=NetJ?_2
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Added Member To Class: ClassName=Power Member=Component C? 1uF
+Added Member To Class: ClassName=Power Member=Component C? 1uF
+Added Member To Class: ClassName=Power Member=Component C? UWT1H101MNL1GS
+Added Member To Class: ClassName=Power Member=Component C? 1uF
+Added Member To Class: ClassName=Power Member=Component C? UWT1H101MNL1GS
+Added Member To Class: ClassName=Power Member=Component D? 1SS355VMTE-17
+Added Member To Class: ClassName=Power Member=Component D? 1SS355VMTE-17
+Added Member To Class: ClassName=Power Member=Component D? 1SS355VMTE-17
+Added Member To Class: ClassName=Power Member=Component D? 1SS355VMTE-17
+Added Member To Class: ClassName=Power Member=Component D? 1SS355VMTE-17
+Added Member To Class: ClassName=Power Member=Component IC? L7812ABD2T-TR
+Added Member To Class: ClassName=Main Member=Component J? 1770393
+Added Member To Class: ClassName=Power Member=Component Q? SQJ147ELP-T1_GE3
+Added Member To Class: ClassName=Power Member=Component R? AC1206FR-104K7L
+Added Member To Class: ClassName=Power Member=Component R? AC1206FR-104K7L
+Added Member To Class: ClassName=Power Member=Component R? AC1206FR-104K7L
